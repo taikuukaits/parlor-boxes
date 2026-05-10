@@ -1,6 +1,6 @@
-box1_top: This box contains the gems.
-box1_bottom: gem
-box2_top: This box does not contain the gems.
-box2_bottom: empty
-box3_top: The other boxes contain the gems.
-box3_bottom: empty
+blue_box_top: This box contains the gems.
+blue_bottom: gem
+white_top: This box does not contain the gems.
+white_bottom: empty
+black_top: The other boxes contain the gems.
+black_bottom: empty
