@@ -1,0 +1,6 @@
+blue_top: The gems are on the table behind you
+blue_bottom: empty
+white_top: The gems are in this box
+white_bottom: gem
+black_top: Every statement claiming where the gems are is false. The gems are in the blue box
+black_bottom: empty

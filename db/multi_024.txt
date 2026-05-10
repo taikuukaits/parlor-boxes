@@ -1,0 +1,6 @@
+blue_top: There is no box that contains a mix of true and false statements \n There is no box that displays 3 false statements \n There is no box that displays a number that also appears on another box
+blue_bottom: empty
+white_top: There is no box that mentions a specific color \n There is no box that displays 3 true statements
+white_bottom: gem
+black_top: There is no box that is between 2 empty boxes \n There is no box that contains a statement with less than 8 words \n There is no box that displays exactly 1 true statement
+black_bottom: empty

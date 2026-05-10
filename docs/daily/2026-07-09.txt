@@ -1,0 +1,6 @@
+blue_top: There is only one true box
+blue_bottom: empty
+white_top: Both statements written on the other boxes are false
+white_bottom: empty
+black_top: The box with the most words does not have gems
+black_bottom: gem

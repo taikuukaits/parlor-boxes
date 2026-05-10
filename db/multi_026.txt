@@ -1,0 +1,6 @@
+blue_top: This box has no false statements \n The gems are in a box with a six word statement \n This statement contains six words
+blue_bottom: empty
+white_top: The gems are in a box with a statement containing the word "six" \n There is a box that contains a mix of true and false statements \n This statement contains five words
+white_bottom: gem
+black_top: The blue box contains exactly one false statement \n The gems are in a box with a five word statement \n This box has no true statements
+black_bottom: empty

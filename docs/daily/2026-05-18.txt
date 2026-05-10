@@ -1,0 +1,6 @@
+blue_top: One of the other statements is false
+blue_bottom: empty
+white_top: One of the other boxes contains gems
+white_bottom: gem
+black_top: If you replace the word 'one' in the other two statements with 'both' they will both be false
+black_bottom: empty

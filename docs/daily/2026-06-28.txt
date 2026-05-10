@@ -1,0 +1,6 @@
+blue_top: The letter 'B' appears twice on the box that contains the gems
+blue_bottom: empty
+white_top: All statements that contain more than one 'B' are true
+white_bottom: empty
+black_top: The blue box contains the gems
+black_bottom: gem

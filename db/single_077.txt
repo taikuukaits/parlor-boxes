@@ -1,0 +1,6 @@
+blue_top: You are in the parlor
+blue_bottom: empty
+white_top: This box is empty
+white_bottom: gem
+black_top: The blue box is true
+black_bottom: empty

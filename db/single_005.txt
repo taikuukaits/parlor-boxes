@@ -1,0 +1,6 @@
+blue_top: Boxes next to this box contain gems
+blue_bottom: empty
+white_top: Boxes next to this box contain gems
+white_bottom: gem
+black_top: Boxes next to this box contain gems
+black_bottom: empty

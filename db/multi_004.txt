@@ -1,0 +1,6 @@
+blue_top: All boxes displaying the word "empty" are empty \n All statements displaying the word "true" are true
+blue_bottom: empty
+white_top: All boxes displaying the word "gems" contain gems \n All statements displaying the word "word" contain words
+white_bottom: gem
+black_top: All statements displaying the word "boxes" are false. \n All statements displaying the word "statements" are true.
+black_bottom: empty

@@ -1,0 +1,6 @@
+blue_top: There is only one true statement
+blue_bottom: gem
+white_top: A gems are in a box with a false statement
+white_bottom: empty
+black_top: There are two true statements
+black_bottom: empty

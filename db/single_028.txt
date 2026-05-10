@@ -1,0 +1,6 @@
+blue_top: The gems are in the black box
+blue_bottom: gem
+white_top: The gems are in the white box
+white_bottom: empty
+black_top: Only one box displays a true statement
+black_bottom: empty

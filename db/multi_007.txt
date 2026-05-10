@@ -1,0 +1,6 @@
+blue_top: Only one of the white box's statements is true \n The black box contains the gems \n The blue box is empty
+blue_bottom: empty
+white_top: Only one of the blue box's statements is true \n The black box is empty \n The gems are in a box with a true statement
+white_bottom: gem
+black_top: Only one of this box's statements is true \n The blue box contains the gems \n The white box is empty
+black_bottom: empty

@@ -1,0 +1,6 @@
+blue_top: There are two statements on this box \n They are both false
+blue_bottom: empty
+white_top: There are two statements on this box \n The gems are in a box with no true statements
+white_bottom: empty
+black_top: There are two statements on this box
+black_bottom: gem

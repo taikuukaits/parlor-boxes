@@ -1,0 +1,6 @@
+blue_top: You will not solve this puzzle
+blue_bottom: empty
+white_top: Four statements on boxes in this room are true \n A box with one false statement contains gems
+white_bottom: gem
+black_top: A box with a true statement contains the gems \n This box does not contain the gems
+black_bottom: empty

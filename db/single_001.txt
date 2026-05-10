@@ -1,0 +1,6 @@
+blue_top: A box next to this box contains gems
+blue_bottom: empty
+white_top: Both boxes next to this box contain gems
+white_bottom: gem
+black_top: A box next to this box is true
+black_bottom: empty

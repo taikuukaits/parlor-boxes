@@ -1,0 +1,6 @@
+blue_top: There are three boxes in this room
+blue_bottom: empty
+white_top: Two boxes in this room are empty
+white_bottom: empty
+black_top: This box is one of the two empty boxes
+black_bottom: gem

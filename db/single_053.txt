@@ -1,0 +1,6 @@
+blue_top: The statement on this box is true
+blue_bottom: empty
+white_top: The statement on this box is true
+white_bottom: empty
+black_top: Boxes that claim to be true contain gems
+black_bottom: gem

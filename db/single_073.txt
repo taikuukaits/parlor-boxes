@@ -1,0 +1,6 @@
+blue_top: This is the blue box
+blue_bottom: gem
+white_top: The blue box is true
+white_bottom: empty
+black_top: The blue box is empty
+black_bottom: empty

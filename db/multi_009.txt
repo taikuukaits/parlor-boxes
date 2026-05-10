@@ -1,0 +1,6 @@
+blue_top: Statements containing the word 'statements' are always true
+blue_bottom: empty
+white_top: Both statements on the black box are false
+white_bottom: empty
+black_top: The gems are in the box with a true statement \n This is the second statement on this box
+black_bottom: gem

@@ -1,0 +1,6 @@
+blue_top: The gems are in a box with the longest word. \n "longest" is the longest word on a box
+blue_bottom: gem
+white_top: The gems are in a box with the shortest word. \n "A" is the shortest word on a box
+white_bottom: empty
+black_top: There are words on the box with the gems. \n This box does not contain the gems
+black_bottom: empty

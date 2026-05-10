@@ -1,0 +1,6 @@
+blue_top: A box with a true statement contains the gems \n A box with a false statement contains the gems \n A box mentioning the word "true" contains the gems
+blue_bottom: empty
+white_top: A box with only true statements contains the gems \n The blue box contains the gems \n A box with a statement that is also on another box contains the gems
+white_bottom: gem
+black_top: A box with a false statement contains the gems \n The white box contains the gems \n A box mentioning a specific color contains the gems
+black_bottom: empty

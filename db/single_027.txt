@@ -1,0 +1,6 @@
+blue_top: The gems are in another box
+blue_bottom: gem
+white_top: The truth is on another box
+white_bottom: empty
+black_top: The words "another box" are on another box
+black_bottom: empty

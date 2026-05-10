@@ -1,0 +1,6 @@
+blue_top: Only one box next to this box is false and it contains gems
+blue_bottom: empty
+white_top: Only one box next to this box is false and it contains gems
+white_bottom: gem
+black_top: Only one box next to this box is false and it contains gems
+black_bottom: empty

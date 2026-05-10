@@ -1,0 +1,6 @@
+blue_top: The statement matching this statement is on an empty box \n The gems are in a box with a false statement \n There is at least one true statement on this box
+blue_bottom: empty
+white_top: The gems are in a box with a true statement \n The gems are in a box with a false statement
+white_bottom: empty
+black_top: The statement matching this statement is on an empty box \n The gems are in a box with three statements \n There are an equal number of true and false statements
+black_bottom: gem

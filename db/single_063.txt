@@ -1,0 +1,6 @@
+blue_top: This box and the white box are both empty
+blue_bottom: empty
+white_top: This box and the blue box are both empty
+white_bottom: empty
+black_top: The other two statements have identical wording
+black_bottom: gem

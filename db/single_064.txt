@@ -1,0 +1,6 @@
+blue_top: This box is empty
+blue_bottom: empty
+white_top: This box is empty
+white_bottom: empty
+black_top: This puzzle is harder than it seems
+black_bottom: gem

@@ -1,0 +1,6 @@
+blue_top: All three statements are false
+blue_bottom: empty
+white_top: Two statements are false
+white_bottom: gem
+black_top: The gems are in a box with a false statement
+black_bottom: empty

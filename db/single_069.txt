@@ -1,0 +1,6 @@
+blue_top: This box is the middle box
+blue_bottom: empty
+white_top: The gems are in the middle box
+white_bottom: gem
+black_top: This box is the middle box
+black_bottom: empty

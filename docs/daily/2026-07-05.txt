@@ -1,0 +1,6 @@
+blue_top: There are four boxes in this room
+blue_bottom: empty
+white_top: There is only one box in this room
+white_bottom: empty
+black_top: The gems are in the true box
+black_bottom: gem

@@ -1,0 +1,6 @@
+blue_top: This box is empty
+blue_bottom: empty
+white_top: This box is empty \n The blue box is empty
+white_bottom: empty
+black_top: This box is empty \n Every statement with the word empty is false
+black_bottom: gem

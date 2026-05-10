@@ -1,0 +1,6 @@
+blue_top: Every box is black
+blue_bottom: empty
+white_top: Every box contains gems
+white_bottom: gem
+black_top: The statement on one of the other two boxes would be true if you replaced the word 'every' with the word 'this'
+black_bottom: empty

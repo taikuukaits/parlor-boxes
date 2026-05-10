@@ -1,0 +1,6 @@
+blue_top: The black box is true and it contains the gems
+blue_bottom: empty
+white_top: The black box is false \n The above statement is false
+white_bottom: gem
+black_top: The blue box is empty if it is false
+black_bottom: empty

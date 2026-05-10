@@ -1,0 +1,6 @@
+blue_top: The gems are not in the box with a unique statement
+blue_bottom: empty
+white_top: This statement is unique
+white_bottom: gem
+black_top: The gems are not in the box with a unique statement
+black_bottom: empty

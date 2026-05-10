@@ -1,0 +1,6 @@
+blue_top: A box that displays the word 'true' is false.
+blue_bottom: empty
+white_top: A box that displays the word 'gems' is empty.
+white_bottom: gem
+black_top: The white box is true and does not contain gems.
+black_bottom: empty

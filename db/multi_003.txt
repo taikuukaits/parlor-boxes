@@ -1,0 +1,6 @@
+blue_top: A statement with an odd number of words is always true \n The gems are in the box with the most words
+blue_bottom: empty
+white_top: False statements have less than six words \n That's not true
+white_bottom: empty
+black_top: This box has gems
+black_bottom: gem

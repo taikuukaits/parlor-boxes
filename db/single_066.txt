@@ -1,0 +1,6 @@
+blue_top: This box is not empty.
+blue_bottom: empty
+white_top: This box contains gems.
+white_bottom: gem
+black_top: All statements that contain the word 'gems' are false.
+black_bottom: empty

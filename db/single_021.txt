@@ -1,0 +1,6 @@
+blue_top: The empty boxes are both true
+blue_bottom: empty
+white_top: The empty boxes are both false
+white_bottom: gem
+black_top: This is not an empty box
+black_bottom: empty

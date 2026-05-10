@@ -1,0 +1,6 @@
+blue_top: The statement matching this statement is true \n The statement matching this statement is on a completely true box
+blue_bottom: empty
+white_top: The statement matching this statement is true \n The statement matching this statement is on a box containing gems
+white_bottom: empty
+black_top: The statement matching this statement is on a box containing gems \n The statement matching this statement is on a completely true box
+black_bottom: gem

@@ -1,0 +1,6 @@
+blue_top: Only one of the statements on this box are false \n The gems are in the white box
+blue_bottom: gem
+white_top: Only one of the statements on this box are true \n The gems are in a box with a true statement
+white_bottom: empty
+black_top: There are three false statements on boxes in this room
+black_bottom: empty

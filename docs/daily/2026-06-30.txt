@@ -1,0 +1,6 @@
+blue_top: The statement on the white box is true
+blue_bottom: gem
+white_top: There is a second wind-up key in this room
+white_bottom: empty
+black_top: This box and the white box are both empty
+black_bottom: empty
